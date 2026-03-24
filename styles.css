@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-light {
+  background: linear-gradient(to right, #bce5de, #9face6);
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.btn {
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+h3, h4 {
+  font-weight: bold;
+}
+.dashboard-bg {
+  background-color: #e3f2fd;  /* light blue */
+  min-height: 100vh;
+}
